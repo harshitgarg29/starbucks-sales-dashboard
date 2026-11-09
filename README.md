@@ -20,3 +20,6 @@ Starbucks sales data.
 - `Starbucks.pbix` - Final Power BI report file
 - `starbucks.csv` - Main dataset containing drink nutritional values and categories
 - `directory.csv` - Location dataset for store presence mapping
+
+## Dashboard Preview
+![Starbucks Dashboard Preview](Starbucks_Dashboard.png)
